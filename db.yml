@@ -1,6 +1,7 @@
 user name = Rohit
 pwd = password
 
+<<<<<<< HEAD
 again adding something....
 
 fir se add keya....
@@ -11,5 +12,4 @@ Trying to unstage this file..............
 <<<<<<< HEAD
 
 Abeee.............
-=======
->>>>>>> cbd72ba1f4bf146bb0525758dc63d4e4c51f2035
+
